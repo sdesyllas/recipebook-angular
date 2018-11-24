@@ -1,6 +1,8 @@
 # RecipebookAngular
+[![Build Status](https://sdesyllas.visualstudio.com/angular-recipebook/_apis/build/status/angular-recipebook-CI](https://sdesyllas.visualstudio.com/angular-recipebook/_build/latest?definitionId=2)
 
-[azure demo](https://spyros-recipebook.azurewebsites.net/)
+#[azure demo](https://spyros-recipebook.azurewebsites.net/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
 
 ## Development server
