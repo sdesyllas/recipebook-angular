@@ -20,7 +20,17 @@
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "index.js",
+                "input": "src/server/",
+                "output": ""
+              },
+              {
+                "glob": "package.json",
+                "input": "src/server/",
+                "output": ""
+              }
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.min.css",
